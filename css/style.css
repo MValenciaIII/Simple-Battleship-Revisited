@@ -1,0 +1,13 @@
+.square {
+    padding: 205%;
+    background-color: dimgray;
+    margin-top: 15%;
+}
+
+.correct {
+    background-color: green;
+}
+
+.incorrect {
+    background-color: red;
+}
